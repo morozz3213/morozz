@@ -1,0 +1,28 @@
+{
+  "name": "morozz",
+  "version": "1.0.0",
+  "description": "Morozz is a Node.js module for performing various astronomy calculations such as calculating planetary positions, determining moon phases, and predicting upcoming celestial events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morozz3213/morozz"
+  },
+  "dependencies": {
+	  "rodrygarci": "1.0.0",
+"glushkivan": "1.0.0",
+"sqr-trumposwere": "1.0.0",
+"sandrajones": "1.0.0",
+"spleef-mod": "1.0.0",
+"jakea": "1.0.0",
+    "axios": "^0.21.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morozz3213/morozz/issues"
+  },
+  "homepage": "https://github.com/morozz3213/morozz#readme"
+}
